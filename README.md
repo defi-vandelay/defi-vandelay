@@ -1,6 +1,4 @@
-##  Hi, I am David.
-
-Connect with me: [Linkedin](https://linkedin.com/in/david-barclay1)
+##  Hello frens.
 
 ----------------------------------
 
