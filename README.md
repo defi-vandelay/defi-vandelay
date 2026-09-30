@@ -2,7 +2,7 @@
 
 ----------------------------------
 
-Developer | Product Manager | Investor
+Always Building | Web3 <3
 ----------------------------------
 
 Welcome to my Github profile, Here you'll find a variety of open-source projects & free tools focusing on AI tools, Web3 dApps, front-end tools, personal portfolio website/s, and passion projects / experiments.
